@@ -13,11 +13,11 @@ The following diagram illustrates the process, from uploading the files to a use
 
 
 
-![1. Create bucket](Createbucket.jpg)
+![1. Create bucket](Create bucket.jpg)
 ![2. Upload your files](Objects.jpg)
-![3. Make Block public access OFF](Blockpublicaccess(bucketsettings).jpg)
-![4. write Your bucket policy](Bucketpolicy.jpg)
-![5. Copy your link website](Staticwebsitehosting.jpg)
+![3. Make Block public access OFF](Block public access (bucket settings).jpg)
+![4. write Your bucket policy](Bucket policy.jpg)
+![5. Copy your link website](Static website hosting.jpg)
 
 
 How It Works
