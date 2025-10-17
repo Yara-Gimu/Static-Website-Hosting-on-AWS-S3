@@ -1,4 +1,4 @@
-# Static-Website-Hosting-on-AWS-S3
+# Static Website Hosting on AWS S3
 
 A simple project demonstrating how to deploy and host a static website using Amazon Web Services (AWS) S3. This repository contains the source code for a basic website consisting of HTML and CSS files.
 Project Goal
@@ -13,11 +13,11 @@ The following diagram illustrates the process, from uploading the files to a use
 
 
 
-![1. Create bucket](Create bucket.jpg)
+![1. Create bucket](Create_bucket.jpg)
 ![2. Upload your files](Objects.jpg)
-![3. Make Block public access OFF](Block public access (bucket settings).jpg)
-![4. write Your bucket policy](Bucket policy.jpg)
-![5. Copy your link website](Static website hosting.jpg)
+![3. Make Block public access OFF](Block_public_access.jpg)
+![4. write Your bucket policy](Bucket_policy.jpg)
+![5. Copy your link website](Static_website_hosting.jpg)
 
 
 How It Works
